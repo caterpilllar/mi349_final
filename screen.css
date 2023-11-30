@@ -1,1 +1,17 @@
 /* Add screen styles below */
+
+body{
+    background-color: #AADCE2;
+    color: #08415C;
+}
+
+header{
+    display: flex;
+    background-color: #598F9F;
+    color: #EAF7F8;
+}
+
+a{
+   color: #EAF7F8;
+   
+}
